@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": [
+        "Operators_java/src",
+        "HelloWorld/src",
+        "Controlflow/src/com/controlflow",
+        "Controlflow/src/com/XYZ",
+        "Demo/src"
+    ]
+}
