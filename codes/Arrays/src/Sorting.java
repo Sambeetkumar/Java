@@ -1,5 +1,4 @@
 import java.util.Scanner;
-import java.util.Arrays;
 
 public class Sorting {
     public static Scanner sc = new Scanner(System.in);
